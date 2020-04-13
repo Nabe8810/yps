@@ -1,0 +1,197 @@
+
+a
+{
+ text-decoration: none;
+}
+
+li
+{
+    list-style-type: none;
+}
+
+.com_name
+{
+  float: left;
+  font-size: 50px;
+  margin: 50px 50px;
+}
+
+.yps_logo
+{
+  float: left;
+  width: 150px;
+  height: 150px;
+}
+
+.tel_container
+{
+  float: right;
+  margin: 12.5px 20px;
+}
+
+.com_tel
+{
+  display: block;
+  font-size: 25px;
+  color: white;
+  background-color:#27b5d7;
+  border-radius: 5px;
+  box-shadow: 0 5px #3232fc;
+  border: 1px solid #27b5d7;
+  text-align: center;
+}
+
+.tel_num
+{
+  margin-top:-25px;
+}
+
+.com_tel:hover
+{
+  background: white;
+  color: #27b5d7;
+  transform: translateY(5px);
+  box-shadow: none;
+}
+
+.header
+{
+  height: 250px;
+  /*background-color:#f7f2b4;*/
+}
+
+.header_list
+{
+  clear: left;
+  height: 30px;
+  margin: -5px;
+}
+
+.header_home
+{
+  list-style-type: none;
+  float: left;
+  font-size: 25px;
+  color:black;
+  padding:20px 30px 20px 0;
+  border-right:1px solid  #cdc5ab;
+}
+
+.header_etc
+{
+  list-style-type: none;
+  float: left;
+  padding:20px 30px 20px 30px;
+  font-size: 25px;
+  color:black;
+  border-right:1px solid  #cdc5ab;
+}
+
+.work
+{
+  clear:left;
+  /*background-color:#bdf7f1;*/
+}
+
+.main_work
+{
+  margin:0 auto;
+  width:1200px;
+}
+
+.work_2_3
+{
+  margin: 0 auto;
+  width: 1200px;
+}
+
+.work_list_2
+{
+  float: left;
+  margin-right: 40px;
+}
+
+.work_list_3
+{
+
+}
+
+.work_4_5
+{
+  margin: 0 auto;
+  width: 1200px;
+}
+
+.work_list_4
+{
+  float: left;
+  margin-right: 40px;
+}
+
+.work_list_5
+{
+
+}
+
+.work figcaption
+{
+  font-size: 25px;
+  color:#4078be;
+}
+
+.info_container
+{
+  margin: 0 auto;
+}
+
+.information
+{
+  clear: left;
+  /*background-color: #ceccf3;*/
+  height: 300px;
+  text-align: center;
+}
+
+.information p
+{
+  font-size: 25px;
+}
+
+.footer_list_container
+{
+  width: 1200px;
+  margin:0 auto;
+}
+
+.footer_list
+{
+  height: 20px;
+  text-align: center;
+}
+
+.footer_list li
+{
+  list-style-type: none;
+  padding: 30px 20px;
+  float: left;
+   font-size: 26px;
+}
+
+.footer_list a
+{
+ color: black;
+ font-size: 20px;
+}
+
+.row_list_container
+{
+  height: 25px;
+ margin: 0 auto;
+}
+
+.row_list
+{
+  clear: left;
+  text-align: center;
+  background-color: #ceccf3;
+}
